@@ -6,6 +6,93 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
+		<key>18F5D01A-3B74-4CDF-A810-6579A1DF571C</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>18F5D01A-3B74-4CDF-A810-6579A1DF571C.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>LJYDatePickerDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LJYDatePickerDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LJYDatePickerDemo</string>
+			<key>timeStartedRecording</key>
+			<real>569388526.88641202</real>
+			<key>timeStoppedRecording</key>
+			<real>569388527.40654194</real>
+			<key>title</key>
+			<string>Build LJYDatePickerDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>18F5D01A-3B74-4CDF-A810-6579A1DF571C</string>
+		</dict>
+		<key>3E2D416F-1137-4DE4-AB78-EAADFC7494AA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>3E2D416F-1137-4DE4-AB78-EAADFC7494AA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>LJYDatePickerDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LJYDatePickerDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LJYDatePickerDemo</string>
+			<key>timeStartedRecording</key>
+			<real>569388476.85451901</real>
+			<key>timeStoppedRecording</key>
+			<real>569388482.647035</real>
+			<key>title</key>
+			<string>Build LJYDatePickerDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>3E2D416F-1137-4DE4-AB78-EAADFC7494AA</string>
+		</dict>
+		<key>54779A58-71B6-4F62-B85E-DA00F5B6A923</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>54779A58-71B6-4F62-B85E-DA00F5B6A923.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>LJYDatePickerDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LJYDatePickerDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LJYDatePickerDemo</string>
+			<key>timeStartedRecording</key>
+			<real>569388483.74975002</real>
+			<key>timeStoppedRecording</key>
+			<real>569388487.28275001</real>
+			<key>title</key>
+			<string>Build LJYDatePickerDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>54779A58-71B6-4F62-B85E-DA00F5B6A923</string>
+		</dict>
 		<key>5BC1696A-BB30-46AF-A69D-C2EE418CECCE</key>
 		<dict>
 			<key>className</key>
@@ -150,6 +237,35 @@
 			<string>Build LJYDatePickerDemo</string>
 			<key>uniqueIdentifier</key>
 			<string>D6088439-0492-40E9-BED4-50120AEC4DA6</string>
+		</dict>
+		<key>E0B92559-FE2E-4782-8D8D-7361A78ADE2E</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>E0B92559-FE2E-4782-8D8D-7361A78ADE2E.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>LJYDatePickerDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LJYDatePickerDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LJYDatePickerDemo</string>
+			<key>timeStartedRecording</key>
+			<real>569388509.33406401</real>
+			<key>timeStoppedRecording</key>
+			<real>569388510.90965402</real>
+			<key>title</key>
+			<string>Build LJYDatePickerDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>E0B92559-FE2E-4782-8D8D-7361A78ADE2E</string>
 		</dict>
 	</dict>
 </dict>

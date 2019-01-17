@@ -6,7 +6,7 @@
 	<integer>9</integer>
 	<key>logs</key>
 	<dict>
-		<key>6B5B3991-775C-4A82-A4DE-4886664D4AA0</key>
+		<key>BFED3CF5-4A25-4F7D-923C-A2F1F410C707</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,19 +15,19 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
 			<key>fileName</key>
-			<string>6B5B3991-775C-4A82-A4DE-4886664D4AA0.xcactivitylog</string>
+			<string>BFED3CF5-4A25-4F7D-923C-A2F1F410C707.xcactivitylog</string>
 			<key>highLevelStatus</key>
 			<string>S</string>
 			<key>signature</key>
 			<string>LJYDatePickerDemo-hlhpwoygylacqeczklrrvoeojsaq</string>
 			<key>timeStartedRecording</key>
-			<real>569385835.40252197</real>
+			<real>569388526.952402</real>
 			<key>timeStoppedRecording</key>
-			<real>569385871.52067697</real>
+			<real>569388527.32031202</real>
 			<key>title</key>
 			<string>Build target LJYDatePickerDemo</string>
 			<key>uniqueIdentifier</key>
-			<string>6B5B3991-775C-4A82-A4DE-4886664D4AA0</string>
+			<string>BFED3CF5-4A25-4F7D-923C-A2F1F410C707</string>
 		</dict>
 	</dict>
 	<key>preserveOldLogs</key>

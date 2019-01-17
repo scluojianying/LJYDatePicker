@@ -29,6 +29,8 @@
     [dp selectsomeDate:[NSDate date]];
     dp.delegate = self;
     [self.view addSubview:dp];
+    dp.layer.borderColor = [UIColor blackColor].CGColor;
+    dp.layer.borderWidth = 0.2;
 }
 
 -(void)selectsomedate:(NSDate*)currentdate andstring:(NSString*)datestring{
