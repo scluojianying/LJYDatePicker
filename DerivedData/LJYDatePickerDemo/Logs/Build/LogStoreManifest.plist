@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>5BC1696A-BB30-46AF-A69D-C2EE418CECCE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5BC1696A-BB30-46AF-A69D-C2EE418CECCE.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>LJYDatePickerDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LJYDatePickerDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LJYDatePickerDemo</string>
+			<key>timeStartedRecording</key>
+			<real>569385835.15865505</real>
+			<key>timeStoppedRecording</key>
+			<real>569385871.81880403</real>
+			<key>title</key>
+			<string>Build LJYDatePickerDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>5BC1696A-BB30-46AF-A69D-C2EE418CECCE</string>
+		</dict>
+		<key>8687F565-DF34-4EB5-A859-6B11B59540F2</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8687F565-DF34-4EB5-A859-6B11B59540F2.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>E</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>LJYDatePickerDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LJYDatePickerDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LJYDatePickerDemo</string>
+			<key>timeStartedRecording</key>
+			<real>569327503.86036098</real>
+			<key>timeStoppedRecording</key>
+			<real>569327505.64721799</real>
+			<key>title</key>
+			<string>Build LJYDatePickerDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>8687F565-DF34-4EB5-A859-6B11B59540F2</string>
+		</dict>
+		<key>8A4ADD7D-9FEF-4CCB-B8E8-7110579CA78D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8A4ADD7D-9FEF-4CCB-B8E8-7110579CA78D.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>LJYDatePickerDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LJYDatePickerDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LJYDatePickerDemo</string>
+			<key>timeStartedRecording</key>
+			<real>569382049.25001705</real>
+			<key>timeStoppedRecording</key>
+			<real>569382051.77707505</real>
+			<key>title</key>
+			<string>Build LJYDatePickerDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>8A4ADD7D-9FEF-4CCB-B8E8-7110579CA78D</string>
+		</dict>
+		<key>B2CAA73D-007F-4940-BDA1-D28EDA724630</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B2CAA73D-007F-4940-BDA1-D28EDA724630.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>LJYDatePickerDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LJYDatePickerDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LJYDatePickerDemo</string>
+			<key>timeStartedRecording</key>
+			<real>569382062.39973795</real>
+			<key>timeStoppedRecording</key>
+			<real>569382062.74124098</real>
+			<key>title</key>
+			<string>Build LJYDatePickerDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>B2CAA73D-007F-4940-BDA1-D28EDA724630</string>
+		</dict>
+		<key>D6088439-0492-40E9-BED4-50120AEC4DA6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D6088439-0492-40E9-BED4-50120AEC4DA6.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>LJYDatePickerDemo project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>LJYDatePickerDemo</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build LJYDatePickerDemo</string>
+			<key>timeStartedRecording</key>
+			<real>569381835.071944</real>
+			<key>timeStoppedRecording</key>
+			<real>569381873.56877601</real>
+			<key>title</key>
+			<string>Build LJYDatePickerDemo</string>
+			<key>uniqueIdentifier</key>
+			<string>D6088439-0492-40E9-BED4-50120AEC4DA6</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
