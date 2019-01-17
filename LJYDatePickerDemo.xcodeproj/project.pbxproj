@@ -13,6 +13,8 @@
 		F56B64B221EF3D9A005BBF60 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F56B64B121EF3D9A005BBF60 /* Assets.xcassets */; };
 		F56B64B521EF3D9A005BBF60 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F56B64B321EF3D9A005BBF60 /* LaunchScreen.storyboard */; };
 		F56B64B821EF3D9A005BBF60 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F56B64B721EF3D9A005BBF60 /* main.m */; };
+		F56B64C621EF3E6C005BBF60 /* LJYDatePicker.m in Sources */ = {isa = PBXBuildFile; fileRef = F56B64C221EF3E6B005BBF60 /* LJYDatePicker.m */; };
+		F56B64C721EF3E6C005BBF60 /* NSDate+Calendar.m in Sources */ = {isa = PBXBuildFile; fileRef = F56B64C521EF3E6B005BBF60 /* NSDate+Calendar.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,10 @@
 		F56B64B421EF3D9A005BBF60 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		F56B64B621EF3D9A005BBF60 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F56B64B721EF3D9A005BBF60 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		F56B64C221EF3E6B005BBF60 /* LJYDatePicker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LJYDatePicker.m; sourceTree = "<group>"; };
+		F56B64C321EF3E6B005BBF60 /* LJYDatePicker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = LJYDatePicker.h; sourceTree = "<group>"; };
+		F56B64C421EF3E6B005BBF60 /* NSDate+Calendar.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDate+Calendar.h"; sourceTree = "<group>"; };
+		F56B64C521EF3E6B005BBF60 /* NSDate+Calendar.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDate+Calendar.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +64,7 @@
 		F56B64A721EF3D8B005BBF60 /* LJYDatePickerDemo */ = {
 			isa = PBXGroup;
 			children = (
+				F56B64BE21EF3DC5005BBF60 /* LJYDatePicker */,
 				F56B64A821EF3D8B005BBF60 /* AppDelegate.h */,
 				F56B64A921EF3D8B005BBF60 /* AppDelegate.m */,
 				F56B64AB21EF3D8B005BBF60 /* ViewController.h */,
@@ -69,6 +76,17 @@
 				F56B64B721EF3D9A005BBF60 /* main.m */,
 			);
 			path = LJYDatePickerDemo;
+			sourceTree = "<group>";
+		};
+		F56B64BE21EF3DC5005BBF60 /* LJYDatePicker */ = {
+			isa = PBXGroup;
+			children = (
+				F56B64C321EF3E6B005BBF60 /* LJYDatePicker.h */,
+				F56B64C221EF3E6B005BBF60 /* LJYDatePicker.m */,
+				F56B64C421EF3E6B005BBF60 /* NSDate+Calendar.h */,
+				F56B64C521EF3E6B005BBF60 /* NSDate+Calendar.m */,
+			);
+			path = LJYDatePicker;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -142,6 +160,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				F56B64AD21EF3D8B005BBF60 /* ViewController.m in Sources */,
+				F56B64C621EF3E6C005BBF60 /* LJYDatePicker.m in Sources */,
+				F56B64C721EF3E6C005BBF60 /* NSDate+Calendar.m in Sources */,
 				F56B64B821EF3D9A005BBF60 /* main.m in Sources */,
 				F56B64AA21EF3D8B005BBF60 /* AppDelegate.m in Sources */,
 			);
